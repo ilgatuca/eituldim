@@ -1,0 +1,10 @@
+C:\Users\et2614\source\repos\mana_laade\mana_laade\bin\Debug\mana_laade.exe.config
+C:\Users\et2614\source\repos\mana_laade\mana_laade\bin\Debug\mana_laade.exe
+C:\Users\et2614\source\repos\mana_laade\mana_laade\bin\Debug\mana_laade.pdb
+C:\Users\et2614\source\repos\mana_laade\mana_laade\obj\Debug\mana_laade.csprojAssemblyReference.cache
+C:\Users\et2614\source\repos\mana_laade\mana_laade\obj\Debug\mana_laade.Form1.resources
+C:\Users\et2614\source\repos\mana_laade\mana_laade\obj\Debug\mana_laade.Properties.Resources.resources
+C:\Users\et2614\source\repos\mana_laade\mana_laade\obj\Debug\mana_laade.csproj.GenerateResource.cache
+C:\Users\et2614\source\repos\mana_laade\mana_laade\obj\Debug\mana_laade.csproj.CoreCompileInputs.cache
+C:\Users\et2614\source\repos\mana_laade\mana_laade\obj\Debug\mana_laade.exe
+C:\Users\et2614\source\repos\mana_laade\mana_laade\obj\Debug\mana_laade.pdb
